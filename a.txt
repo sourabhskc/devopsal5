@@ -5,3 +5,4 @@ Editing in dev1 branch
 Again changing in dev1
 Dev1 second comments
 dev1 third edit
+editing from master for dev2 branch
